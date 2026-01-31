@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation
+
+Make sure Node.js and npm are installed.
+
+Open a terminal in the project directory.
+
+Install dependencies:
+
+## `npm install`
+
+If you encounter dependency resolution issues, run:
+
+## `npm install --legacy-peer-deps`
+
 ## Available Scripts
 
 In the project directory, you can run:
